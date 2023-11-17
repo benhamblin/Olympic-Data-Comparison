@@ -11,7 +11,7 @@ This project is part of the COA123 - Web Programming module. It involves develop
 
 ## Technical Specifications
 - **Languages**: HTML, PHP, JavaScript.
-- **Libraries/Frameworks**: jQuery, Chart.js, Bootstrap (optional).
+- **Libraries/Frameworks**: jQuery, Chart.js, Bootstrap.
 - **Data Source**: Read-only MySQL database (provided).
 - **Development Environment**: Ensure compatibility with Chrome on Windows.
 
@@ -20,21 +20,12 @@ This project is part of the COA123 - Web Programming module. It involves develop
 - **User Interface**: Design an intuitive and user-friendly interface for effective comparison.
 - **Data Visualization**: Use Chart.js for graphical representation of comparison data.
 
-## Development Guidelines
-- **Code Base**: Incorporate code from COA123 lectures and labs.
-- **Directory Structure**: Place all PHP and start HTML files at the root level of the coursework folder on the sci-project server.
-- **Validation and Responsiveness**: Ensure input validation and responsive design.
 
-## Submission
-- Upload all required files to your designated coursework folder on the sci-project server.
-- Follow naming conventions and directory structure as specified in the coursework guidelines.
+## Contributing
+As this is a coursework assignment, contributing is restricted to the individual student. Please adhere to academic integrity policies.
 
 ## Academic Integrity
-This is an individual coursework task. Collaboration or plagiarism is strictly prohibited and subject to academic misconduct proceedings.
+This project is an individual coursework assignment. Sharing code or plagiarizing is strictly prohibited and subject to academic misconduct proceedings.
 
-## Contact Information
-For queries or issues, contact Dr. Hossein Nevisi (h.nevisi@lboro.ac.uk) or seek assistance during lab practical sessions.
-
----
-
-**Note**: This README provides a structured overview for Task 4 of the coursework, focusing on key requirements, technical specifications, and development guidelines. Make sure to adapt and expand this template based on your project's progress and specific implementation details.
+## License
+This project is proprietary and used for educational purposes only. No part of this code may be used, distributed, or modified without proper academic context and permissions.
